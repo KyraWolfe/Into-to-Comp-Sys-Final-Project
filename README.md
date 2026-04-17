@@ -20,6 +20,7 @@
 - VC = 6
 - PAC m = 8,126 ish
 - confidence, error, and PAC m can be increased if needed
+- 1 means scam, 0 means safe in database
 # updates 
 - dataset loaded using googl colab
 - planning on using a decision tree
