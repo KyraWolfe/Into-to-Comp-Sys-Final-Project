@@ -16,10 +16,9 @@
 - dataset has roughly 39,154 emails
 - confidence = 0.5
 - error = 0.5
-- features = 5 (sender, receiver, subject, body, url)
-- VC = 6
-- PAC m = 8,126 ish
-- confidence, error, and PAC m can be increased if needed
+- features = 4 (sender, subject, body, url)
+- VC = 5
+- can change numbers as needed, have plenty of data
 - 1 means scam, 0 means safe in database
 # updates 
 - dataset loaded using googl colab
