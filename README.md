@@ -23,3 +23,9 @@
 # updates 
 - dataset loaded using googl colab
 - planning on using a decision tree
+# additional details
+- don't really know how push works
+- might not be push feature in google colab
+- will post active link here and hope for the best
+- will update the push when done with project
+- https://colab.research.google.com/drive/1iLImom8KWmCTlnQ1lwZtgtDz7BVg_jjZ#scrollTo=wu_X20wK8mE9 
