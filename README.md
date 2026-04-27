@@ -21,8 +21,12 @@
 - can change numbers as needed, have plenty of data
 - 1 means scam, 0 means safe in database
 # updates 
-- dataset loaded using googl colab
+- dataset loaded using google colab
 - planning on using a decision tree
+- decision tree only works with numbers, my data uses strings and none of the strings are consistent enough to assign a number to
+- switched to using BERT
+- referencing code using YouTube and any notebooks I can find in the Kaggle for my dataset that also use BERT
+- as of Monday the 27th, I am not too sure if I will have time to fully train the model but am hoping to have all the necessary code present in the Colab
 # additional details
 - don't really know how push works
 - might not be push feature in google colab
