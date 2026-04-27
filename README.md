@@ -12,6 +12,10 @@
 - focusing on the CEAS_08 file specifically
 # Articles to be Cited:
 - *Al-Subaiey, A., Al-Thani, M., Alam, N. A., Antora, K. F., Khandakar, A., & Zaman, S. A. U. (2024, May 19). Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection. ArXiv.org. https://arxiv.org/abs/2405.11619*
+# YouTube Videos and Notebooks Referenced
+- https://www.youtube.com/watch?v=NzvnWflWk64
+- https://www.youtube.com/watch?v=xqPW4NA2KI8
+- https://www.kaggle.com/code/mubarakalamiri/phishing-email-detection-using-bert-project 
 # details 
 - dataset has roughly 39,154 emails
 - confidence = 0.5
