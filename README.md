@@ -28,9 +28,11 @@
 - dataset loaded using google colab
 - planning on using a decision tree
 - decision tree only works with numbers, my data uses strings and none of the strings are consistent enough to assign a number to
-- switched to using BERT
+- switched to using BERT from transformers
 - referencing code using YouTube and any notebooks I can find in the Kaggle for my dataset that also use BERT
+- going to use the train test split from sklearn to break up the dataset and train on part and test accuracy on the rest
 - as of Monday the 27th, I am not too sure if I will have time to fully train the model but am hoping to have all the necessary code present in the Colab
+- ideally would like to measure the prediction ability and accuracy if there is time
 # additional details
 - don't really know how push works
 - might not be push feature in google colab
