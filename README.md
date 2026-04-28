@@ -41,4 +41,4 @@
 - might not be push feature in google colab
 - will post active link here and hope for the best
 - will update the push when done with project
-- https://colab.research.google.com/drive/1iLImom8KWmCTlnQ1lwZtgtDz7BVg_jjZ#scrollTo=Z5L6m_ig3qbq 
+- update: figured out how to add updated colab code without created a whole new thing each time in Github 
