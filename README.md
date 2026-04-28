@@ -26,6 +26,7 @@
 - 1 means scam, 0 means safe in database
 # updates 
 - dataset loaded using google colab
+- downloaded directly as a zip files, file was unzipped and the specific file CEAS_08.csv was chosen and added to a variable
 - planning on using a decision tree
 - decision tree only works with numbers, my data uses strings and none of the strings are consistent enough to assign a number to
 - switched to using BERT from transformers
@@ -33,9 +34,11 @@
 - going to use the train test split from sklearn to break up the dataset and train on part and test accuracy on the rest
 - as of Monday the 27th, I am not too sure if I will have time to fully train the model but am hoping to have all the necessary code present in the Colab
 - ideally would like to measure the prediction ability and accuracy if there is time
+- the notebook has errors in lines and I am not too sure exactly why
+- May end the project at this point since I feel I do not have time to keep writing code without directly copying everything from previous notebooks and will really not have time to even get to training or training code
 # additional details
 - don't really know how push works
 - might not be push feature in google colab
 - will post active link here and hope for the best
 - will update the push when done with project
-- https://colab.research.google.com/drive/1iLImom8KWmCTlnQ1lwZtgtDz7BVg_jjZ#scrollTo=wu_X20wK8mE9 
+- https://colab.research.google.com/drive/1iLImom8KWmCTlnQ1lwZtgtDz7BVg_jjZ#scrollTo=Z5L6m_ig3qbq 
