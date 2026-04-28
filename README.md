@@ -41,4 +41,9 @@
 - might not be push feature in google colab
 - will post active link here and hope for the best
 - will update the push when done with project
-- update: figured out how to add updated colab code without created a whole new thing each time in Github 
+- update: figured out how to add updated colab code without created a whole new thing each time in Github
+# conclusion
+- underestimated how much time it would take to create code for strings
+- did not realize there was so much more prep to run strings
+- would have probably chosen a database that had numbers attached to certain strings or just numbers data
+- was happy to learn about the existence of google colab as I do not think my laptop could have run on my laptop
